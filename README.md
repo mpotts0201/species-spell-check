@@ -1,5 +1,10 @@
 # species-spell-check
 
+##Installation
+You will need `pyenchant` to run the spell checker.
+Installation guide: https://pyenchant.github.io/pyenchant/install.html#installation
+
+##About
 This repo is an experimental way to spell check species names in taxonomy.
 
 You will need to aquire a tsv of species names from GBIF:
